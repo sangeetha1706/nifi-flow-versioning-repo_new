@@ -1,6 +1,0 @@
-flows:
-  9b72a165-315a-42d6-940b-f1844a7a6d2a: {ver: 2, file: IX_5.2.6_PCC_Status_Update_to_ERP.snapshot,
-    comments: '', author: CN=nifiadmin, created: 1625246382767, flowName: IX 5.2.6
-      PCC Status Update to ERP, flowDesc: ''}
-layoutVer: 1
-bucketId: a636c2b5-2bf2-49b8-893d-9d7cf931292c
